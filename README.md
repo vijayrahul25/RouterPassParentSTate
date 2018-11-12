@@ -1,2 +1,0 @@
-# RouterPassParentSTate
-Created with CodeSandbox
